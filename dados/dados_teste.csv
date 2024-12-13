@@ -1,0 +1,48 @@
+produto,categoria,data_venda,quantidade,preco,total_vendas,cliente,regiao,desconto,forma_pagamento
+Smartphone,Eletrônicos,2024-12-01,10,1500,15000,João,SP,0.1,Credit Card
+Notebook,Eletrônicos,2024-12-02,5,2500,12500,Maria,RJ,0.05,Boleto
+TV LED,Eletrônicos,2024-12-03,3,3500,10500,Carlos,MG,0.15,Debit Card
+Fone de Ouvido,Eletrônicos,2024-12-04,15,200,3000,Luana,SP,0.2,Credit Card
+Cafeteira,Eletrodomésticos,2024-12-05,8,350,2800,Renato,PR,0.1,PIX
+Microondas,Eletrodomésticos,2024-12-06,4,800,3200,Ana,BA,0.05,Credit Card
+Geladeira,Eletrodomésticos,2024-12-07,2,2500,5000,Roberto,RS,0.1,Boleto
+Jogo de Panelas,Eletrodomésticos,2024-12-08,20,100,2000,Fernanda,MG,0.2,Credit Card
+Camiseta,Roupas,2024-12-09,30,80,2400,Marcos,SP,0.15,Debit Card
+Calça,Roupas,2024-12-10,25,120,3000,Juliana,SP,0.1,Credit Card
+Tênis,Roupas,2024-12-11,12,250,3000,Sandra,RJ,0.05,PIX
+Bolsa,Roupas,2024-12-12,7,180,1260,Beatriz,PR,0.1,Boleto
+Livro,Produtos Culturais,2024-12-13,5,50,250,Luis,SP,0.05,Credit Card
+CD,Música,2024-12-14,2,25,50,Marta,RJ,0.1,Debit Card
+Relógio,Acessórios,2024-12-15,3,500,1500,Paulo,MG,0.15,Credit Card
+Smartphone,Eletrônicos,2024-12-01,10,1500,15000,João,SP,0.1,Credit Card
+Notebook,Eletrônicos,2024-12-02,5,2500,12500,Maria,RJ,0.05,Boleto
+TV LED,Eletrônicos,2024-12-03,3,3500,10500,Carlos,MG,0.15,Debit Card
+Fone de Ouvido,Eletrônicos,2024-12-04,15,200,3000,Luana,SP,0.2,Credit Card
+Cafeteira,Eletrodomésticos,2024-12-05,8,350,2800,Renato,PR,0.1,Boleto
+Microondas,Eletrodomésticos,2024-12-06,4,800,3200,Ana,BA,0.05,Credit Card
+Geladeira,Eletrodomésticos,2024-12-07,2,2500,5000,Roberto,RS,0.1,PIX
+Jogo de Panelas,Eletrodomésticos,2024-12-08,20,100,2000,Fernanda,MG,0.2,Credit Card
+Camiseta,Roupas,2024-12-09,30,80,2400,Marcos,SP,0.15,Debit Card
+Calça,Roupas,2024-12-10,25,120,3000,Juliana,RJ,0.1,Credit Card
+Tênis,Roupas,2024-12-11,12,250,3000,Sandra,RJ,0.05,PIX
+Bolsa,Roupas,2024-12-12,7,180,1260,Beatriz,PR,0.1,Boleto
+Livro,Produtos Culturais,2024-12-13,5,50,250,Luis,SP,0.05,Credit Card
+CD,Música,2024-12-14,2,25,50,Marta,RJ,0.1,Debit Card
+Relógio,Acessórios,2024-12-15,3,500,1500,Paulo,MG,0.15,PIX
+Notebook,Eletrônicos,2024-12-02,5,2500,12500,Maria,SP,0.05,Boleto
+Cafeteira,Eletrodomésticos,2024-12-05,8,350,2800,Renato,PR,0.1,Boleto
+Microondas,Eletrodomésticos,2024-12-06,4,800,3200,Ana,BA,0.05,Credit Card
+Geladeira,Eletrodomésticos,2024-12-07,2,2500,5000,Roberto,RS,0.1,Boleto
+Jogo de Panelas,Eletrodomésticos,2024-12-08,20,100,2000,Fernanda,MG,0.2,PIX
+Camiseta,Roupas,2024-12-09,30,80,2400,Marcos,SP,0.15,Debit Card
+Calça,Roupas,2024-12-10,25,120,3000,Juliana,SP,0.1,PIX
+Tênis,Roupas,2024-12-11,12,250,3000,Sandra,RJ,0.05,Credit Card
+Notebook,Eletrônicos,2024-12-02,5,2100,12500,Maria,SP,0.05,Boleto
+Notebook,Eletrônicos,2024-12-02,5,1900,12500,Carla,ES,0.05,PIX
+CD,Música,2024-12-14,2,25,50,Marta,RJ,0.1,Debit Card
+Relógio,Acessórios,2024-12-15,3,500,1500,Paulo,MG,0.15,PIX
+Notebook,Eletrônicos,2024-12-02,5,2500,12500,Maria,SP,0.05,Boleto
+Cafeteira,Eletrodomésticos,2024-12-05,8,350,2800,Renato,ES,0.1,PIX
+Microondas,Eletrodomésticos,2024-12-06,4,800,3200,Ana,BA,0.05,Credit Card
+Geladeira,Eletrodomésticos,2024-12-07,2,2500,5000,Roberto,ES,0.1,Boleto
+Jogo de Panelas,Eletrodomésticos,2024-12-08,20,100,2000,Fernanda,MG,0.2,PIX
